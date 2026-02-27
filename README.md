@@ -38,11 +38,11 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PaulaMarquezM&show_icons=true&theme=radical&hide_border=true&cache_seconds=3600" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PaulaMarquezM&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PaulaMarquezM&layout=compact&theme=radical&hide_border=true&cache_seconds=3600" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PaulaMarquezM&theme=radical" />
 </p>
 
 <p align="center">
