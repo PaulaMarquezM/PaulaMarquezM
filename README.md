@@ -49,6 +49,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaulaMarquezM&theme=radical&hide_border=true&ring=CE93D8&fire=F48FB1&currStreakLabel=E1BEE7" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PaulaMarquezM&theme=dracula&utcOffset=-5" />
+</p>
+
 ---
 
 ## 🌷 Featured Projects
