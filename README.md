@@ -38,11 +38,11 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PaulaMarquezM&show_icons=true&hide_border=true&bg_color=0f0f14&title_color=CE93D8&icon_color=F48FB1&text_color=E1BEE7&cache_seconds=3600" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PaulaMarquezM&show_icons=true&theme=radical&hide_border=true&cache_seconds=3600" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PaulaMarquezM&layout=compact&hide_border=true&bg_color=0f0f14&title_color=CE93D8&text_color=E1BEE7&cache_seconds=3600" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PaulaMarquezM&layout=compact&theme=radical&hide_border=true&cache_seconds=3600" />
 </p>
 
 <p align="center">
