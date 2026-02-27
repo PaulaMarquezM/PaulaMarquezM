@@ -38,19 +38,16 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PaulaMarquezM&theme=default" />
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PaulaMarquezM&theme=rose_pine" />
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PaulaMarquezM&theme=rose_pine" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PaulaMarquezM&theme=default" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=PaulaMarquezM&theme=rose-pine&hide_border=true&ring=E1BEE7&fire=CE93D8&currStreakLabel=9C27B0" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaulaMarquezM&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PaulaMarquezM&theme=default&utcOffset=-5" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PaulaMarquezM&theme=rose_pine&utcOffset=-5" />
 </p>
 
 ---
