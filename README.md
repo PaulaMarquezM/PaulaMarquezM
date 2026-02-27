@@ -64,6 +64,12 @@ Android app for reservation handling and management.
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PaulaMarquezM/PaulaMarquezM/output/github-snake-dark.svg" />
+</p>
+
 ## 🌙 Connect With Me
 
 <p align="center">
