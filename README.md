@@ -38,11 +38,11 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=CE93D8&icon_color=F48FB1&text_color=E1BEE7&bg_color=0f0f14" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PaulaMarquezM&show_icons=true&theme=tokyonight&hide_border=true&title_color=CE93D8&icon_color=F48FB1&text_color=E1BEE7&bg_color=0f0f14" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=CE93D8&text_color=E1BEE7&bg_color=0f0f14" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaMarquezM&layout=compact&theme=tokyonight&hide_border=true&title_color=CE93D8&text_color=E1BEE7&bg_color=0f0f14" />
 </p>
 
 ---
