@@ -38,8 +38,8 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PaulaMarquezM&theme=rose_pine_dawn" />
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PaulaMarquezM&theme=rose_pine_dawn" />
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PaulaMarquezM&theme=default" />
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PaulaMarquezM&theme=default" />
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PaulaMarquezM&theme=rose_pine_dawn&utcOffset=-5" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PaulaMarquezM&theme=default&utcOffset=-5" />
 </p>
 
 ---
