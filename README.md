@@ -45,6 +45,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaMarquezM&layout=compact&hide_border=true&bg_color=0f0f14&title_color=CE93D8&text_color=E1BEE7" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaulaMarquezM&theme=radical&hide_border=true&ring=CE93D8&fire=F48FB1&currStreakLabel=E1BEE7" />
+</p>
+
 ---
 
 ## 🌷 Featured Projects
