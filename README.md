@@ -38,19 +38,19 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PaulaMarquezM&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PaulaMarquezM&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PaulaMarquezM&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PaulaMarquezM&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaulaMarquezM&theme=radical&hide_border=true&ring=CE93D8&fire=F48FB1&currStreakLabel=E1BEE7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaulaMarquezM&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PaulaMarquezM&theme=dracula&utcOffset=-5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PaulaMarquezM&theme=default&utcOffset=-5" />
 </p>
 
 ---
