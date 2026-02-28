@@ -74,7 +74,7 @@ Android app for reservation handling and management.
 ## 🌙 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/paula-márquez-714b46325">
+  <a href="https://www.linkedin.com/in/paula-márquez-714b46325/">
     <img src="https://img.shields.io/badge/LinkedIn-F8BBD0?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="mailto:marquez.moreirapaula@gmail.com">
