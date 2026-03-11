@@ -61,23 +61,66 @@
 
 ## 🌷 Featured Projects
 
-### 💰 [Finsight](https://github.com/PaulaMarquezM/finsight)
-AI-powered financial analysis SaaS for SMEs in Ecuador/LATAM (Capia). Built with TypeScript & Next.js.
-
-### 🧠 [Synapse UI](https://github.com/PaulaMarquezM/Synapse-UI)
-Chrome extension that analyzes facial metrics using AI to identify user state and promote focused work sessions. Built with TypeScript.
-
-### 🛡️ [SAFEZONE AI](https://github.com/PaulaMarquezM/SAFEZONE-AI)
-Android safety app that detects dangerous zones, sends automated emergency messages, and responds to volume-button emergencies. Built with Kotlin.
-
-### 📡 [Sistema Admin](https://github.com/PaulaMarquezM/sistemaadmin)
-Real-time service health monitoring dashboard with WebSockets. Built with Next.js & TypeScript.
-
-### 🧮 [Sistema Financiero](https://github.com/PaulaMarquezM/SistemaFinanciero)
-Financial system for accountants: amortization, interest calculations, and more. Built with TypeScript.
-
-### 🤖 [Chatbot IA](https://github.com/PaulaMarquezM/Chatbot-ia)
-AI-powered customer service chatbot using DeepSeek API — handles menus, order tracking, and queries. Built with JavaScript.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💰 <a href="https://github.com/PaulaMarquezM/finsight">Finsight</a></h3>
+      <p>AI-powered financial analysis SaaS for SMEs in Ecuador/LATAM. Intelligent insights for retail businesses.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-E1BEE7?style=flat-square&logo=typescript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Next.js-F3E5F5?style=flat-square&logo=nextdotjs&logoColor=black"/>
+        <img src="https://img.shields.io/badge/AI-F8BBD0?style=flat-square&logo=openai&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/PaulaMarquezM/Synapse-UI">Synapse UI</a></h3>
+      <p>Chrome extension that reads facial metrics via AI to detect focus levels and optimize deep work sessions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-E1BEE7?style=flat-square&logo=typescript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Chrome_Extension-F48FB1?style=flat-square&logo=googlechrome&logoColor=black"/>
+        <img src="https://img.shields.io/badge/AI-F8BBD0?style=flat-square&logo=openai&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/PaulaMarquezM/SAFEZONE-AI">SAFEZONE AI</a></h3>
+      <p>Android app that detects dangerous zones, sends automated emergency messages, and triggers alerts via volume button.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-CE93D8?style=flat-square&logo=kotlin&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Android-F48FB1?style=flat-square&logo=android&logoColor=black"/>
+        <img src="https://img.shields.io/badge/AI-F8BBD0?style=flat-square&logo=openai&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 <a href="https://github.com/PaulaMarquezM/sistemaadmin">Sistema Admin</a></h3>
+      <p>Real-time service health monitoring dashboard with live updates via WebSockets.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-E1BEE7?style=flat-square&logo=typescript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Next.js-F3E5F5?style=flat-square&logo=nextdotjs&logoColor=black"/>
+        <img src="https://img.shields.io/badge/WebSockets-CE93D8?style=flat-square&logo=socketdotio&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧮 <a href="https://github.com/PaulaMarquezM/SistemaFinanciero">Sistema Financiero</a></h3>
+      <p>Financial tool for accountants — amortization tables, interest calculations, and financial projections.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-E1BEE7?style=flat-square&logo=typescript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Python-F8BBD0?style=flat-square&logo=python&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/PaulaMarquezM/Chatbot-ia">Chatbot IA</a></h3>
+      <p>AI customer service chatbot using DeepSeek API — handles menus, tracks orders, and resolves queries automatically.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F3E5F5?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/DeepSeek_AI-CE93D8?style=flat-square&logo=openai&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
