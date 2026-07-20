@@ -16,6 +16,7 @@
 - 🚀 Full-Stack Developer with TypeScript, Next.js & React
 - 📱 Android Developer (Kotlin + Jetpack Compose)
 - 🤖 Building AI-integrated products and automation systems
+- 🌱 Co-founder @ <a href="https://www.miawaredev.com">Miaware</a>
 - 🧠 Strong foundation in Data Structures & Algorithms
 - 🌎 Open to remote full-time opportunities
 
@@ -39,6 +40,23 @@
 ![WebSockets](https://img.shields.io/badge/WebSockets-E1BEE7?style=for-the-badge&logo=socketdotio&logoColor=black)
 
 </p>
+
+---
+
+## 🚀 Ventures
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://www.miawaredev.com">Miaware</a></h3>
+      <p><strong>Co-founder.</strong> Software studio building AI-powered products and digital solutions for clients across LATAM.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💊 <a href="https://www.perlify.app">Perlify</a></h3>
+      <p>Medical SaaS built under Miaware, already serving real clients. Closed-source product.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -117,6 +135,26 @@
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F3E5F5?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/DeepSeek_AI-CE93D8?style=flat-square&logo=openai&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>♻️ <a href="https://github.com/PaulaMarquezM/Reci">Reci</a></h3>
+      <p>Smart recycling robot for a university campus — a rolling platform that classifies waste with computer vision + an expert system, paired with a PWA (map, robot call, rewards). Project Manager & Lead Developer (App & Cloud).</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-F3E5F5?style=flat-square&logo=nextdotjs&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Supabase-E1BEE7?style=flat-square&logo=supabase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/ESP32-F8BBD0?style=flat-square&logo=espressif&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 <a href="https://github.com/Sketox/codex_hackathon">QuestLearn</a></h3>
+      <p>Built at an OpenAI hackathon — an AI Socratic mentor turns learning any skill into a 2D RPG adventure: pixel-art quest maps, mini-game missions, and a real project as the final boss, evaluated by AI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-F3E5F5?style=flat-square&logo=nextdotjs&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-E1BEE7?style=flat-square&logo=typescript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/AI-F8BBD0?style=flat-square&logo=openai&logoColor=black"/>
       </p>
     </td>
   </tr>
